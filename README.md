@@ -10,8 +10,9 @@ In this tutorial you created a basic part to learn how to use Solidworks.
 
 ![First Tutorial](https://i.ytimg.com/vi/PovLu7Mnhgc/maxresdefault.jpg)
 
-### What I Learned 
+### Lessons Learned 
 
+It was the first time working on a solidworks tutorial.  Sometimes I would try something a little different that I knew and it would backfire on me later.  Follow everything that they set out for you.
 * Improved my understanding of circular patterns*
 * Revisited extrudes** and extruded cuts***
 
@@ -27,10 +28,17 @@ I made 2 parts seperatly (Base_Feature & First_Assembly_Parts) then put them tog
 
 ### Image 
 
-![First_Assembly](https://gm1.ggpht.com/XQ1T87INjJnDXEiIq3bcUr0GsdeNAkB4FQABtQMtZEzNXzNMMx-k4D69N90VT_WaOQP_rRKD05EunkU4cmbVtvebZEInWTBgUEZUCPsblgTC5wr6VZXFLFuctJ9xwMwQhgCUMYbiqYzSkmjBfVvONPtsw1REo0NysaeX82J16jY3LEEaMlu_CZJI4eR8F_0so1nG4jdomuNI3TFX4OBArUsURvHJh1xU0Fv1s9lUZnMOdDo5OX1oJSfmuStyXRSLe2h1A1KNmUbbvli2odEPHr4hKWiyg0DiSe7_3lCbpb55Fr9vY-t5yOOIbD7RhUirrEC9TakuVgOYg31ji0Cr98lt5MVGPeUxrilfRL8LUvbAyZ56SRfmVWXH85uZWBQmMOUrjJ2Bca-1WiO2EDfa-qdLq5AwYswUbeZKN7RdkQerpsuoVXV8_yEFeHxrkYJJzW6Aqu8WnjqUEIGFezPcOTYPkzvjRUa9sRHt6m2_Qs6YnKHkoXqpt_yVHZ_k31DhLDybrKsdEAneTdszrVSUCy2SgPV_agfnCDHk4W6yS-AUt7t1RcRmXo_fhUgpNgXRPvVy0vK0mOHxMoAzLZUFJGyoRKR_tkwOI_nR-fhGgne_USMzrM3wOeUqlE282XHPV7sLpM-Is3tw59_VHLqAC7ezWFU-aUxfbGYykMwsj7JrRP6Jqgq4Ugrs9F8N21HXtYWMZZWw6cQfQf_Saveo2k5sEKGYCEaWJkmW-Z_vj4PfigQgqM4guMSXnu13=s0-l75-ft-l75-ft)
+![part 1](https://github.com/hnovak94/not_so_basic_CAD/blob/master/media/tutor1_engineeringnotebook.JPG)
 
-### What I Learned 
+![part 2](https://github.com/hnovak94/not_so_basic_CAD/blob/master/media/tutor2_engineeringnotebook.JPG)
 
+![assembly](https://github.com/hnovak94/not_so_basic_CAD/blob/master/media/tutor_engineeringnotebook.JPG)
+
+Photos from Hnovak94 https://github.com/hnovak94
+
+### Lessons Learned 
+
+It was the first time I had heard of or used the shell feature, it was nice to add something else to my toolbelt.
 * Reaffirmed my knowledge of mates* and assembling 
 * How to use the Shell** feature
 
@@ -48,8 +56,9 @@ I created a candlestick using the sweep and revolve functions.
 
 ![Sweeps](http://neilhawke.weebly.com/uploads/8/9/3/3/8933835/6750861_orig.png) 
 
-### What I Learned 
+### Lessons Learned 
 
+My biggest struggle was with the sweep.  Watching this video help me getter a better grasp on the subject (https://www.youtube.com/watch?v=VssKlTevseE).
 * How to use the Sweep* Feature 
 * How to use the Revolve** Feature
 
@@ -65,11 +74,15 @@ We created a hammerhead using the loft feature
 
 ### Image 
 
-![Lofts](https://dkemhji6i1k0x.cloudfront.net/000_clients/145337/page/h800-145337qHJe3ya7.jpg)
+![lofts](https://github.com/hnovak94/not_so_basic_CAD/blob/master/media/lofts_engineeringnotebook.JPG)
+Photo from Hnovak94 https://github.com/hnovak94
 
-### What I Learned 
+### Lessons Learned 
+
+I had the hardest time with the seperate planes and bending the hammer.  Use the gide lines from the tutorial to make ure you are selecting the right things or else the flex and lofts will not work.
 * How to use Flexes* 
 * How to use Lofts**
+
 ### Notes
 
 * Flexes https://help.solidworks.com/2018/English/SolidWorks/sldworks/c_Flexes_Folder.htm?id=87335abd8ace4a03a748ccc597e23bf1#Pg0
