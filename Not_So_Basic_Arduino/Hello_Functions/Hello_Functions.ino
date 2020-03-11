@@ -7,8 +7,8 @@ int cm;
 Servo myServo;
 int servoPin = 10;
 int servoPin = 9;
-int servoPin = 6;
-int servoPin = 5;
+int servoPin = 8;
+int servoPin = 7;
 
 //This assignment gets a 180 degree servo to turn when the distance on the ultrasound sensor is shorter than 10 cm.
 void setup() {
